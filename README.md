@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohamed Aboulabed
-- 👀 I’m interested in R, Bioinformatics, Biostatistics and python
+- 👀 I’m interested in python, R, Biostatistics and Bioinformatics 
 - 💞️ I’m looking to collaborate on Research
-- 📫 How to reach me mahassan750@outlook.com
-- 😄 Pronouns: mohamed
+- 📫 How to reach me mahassan750@gmail.com
+- 😄 Pronouns: Mohamed
 - ⚡ Fun fact: sky is not blue :)
 
 <!---
