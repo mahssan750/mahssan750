@@ -27,7 +27,7 @@ I'm a researcher and data scientist working at the intersection of **biology**, 
 ### 📫 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/mohamed-aboulabed-62579230b/))
-- [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)]([https://twitter.com/yourhandle](https://x.com/AltCryptoG_Oczr))
+- [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](https://x.com/AltCryptoG_Oczr))
 
 ---
 
