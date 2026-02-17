@@ -100,6 +100,7 @@ Build a robust foundation in Data Analytics and progressively transition into ad
 - Developing interactive dashboards in Power BI
  
 ### 📊 Visualization & Business Intelligence Project
+
 🔗 [[Project Link](https://github.com/mahssan750/online_retail_dashboards)]
 Developed a comprehensive **5-dashboard analytical reporting suite**, structured for multi-level business analysis:
 **Technology:** Power BI
