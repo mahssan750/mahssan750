@@ -88,17 +88,25 @@ Build a robust foundation in Data Analytics and progressively transition into ad
 ## 🚀 Projects & Practical Experience  
 
 ### 📦 End-to-End Analytical Data Pipeline – Retail Data *(In Progress)*  
-🔗 [Project Link]
+🔗 [[Project Link](https://github.com/mahssan750/Online_retail)]
 
 **Architecture:** Medallion (Bronze → Silver → Gold)  
-**Technology:** T-SQL + Power BI  
+**Technology:** T-SQL   
 
 - Designed layered Data Warehouse architecture  
 - Transformed raw retail transactions into analytics-ready star schema models  
 - Implemented transformation logic and data quality checks  
 - Optimized analytical queries for BI consumption  
-- Developing interactive dashboards in Power BI  
-
+- Developing interactive dashboards in Power BI
+ 
+### 📊 Visualization & Business Intelligence Project
+🔗 [[Project Link](https://github.com/mahssan750/online_retail_dashboards)]
+Developed a comprehensive **5-dashboard analytical reporting suite**, structured for multi-level business analysis:
+**Technology:** Power BI
+- **Executive Dashboard**
+- **Sales Performance Dashboard**
+- **Customer Analytics Dashboard**
+- **Product Performance Dashboard**
 ---
 
 ### 📊 Data Analysis Stack Implementation  
