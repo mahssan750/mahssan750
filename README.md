@@ -102,7 +102,8 @@ Build a robust foundation in Data Analytics and progressively transition into ad
 ### 📊 Visualization & Business Intelligence Project
 
 🔗 [[Project Link](https://github.com/mahssan750/online_retail_dashboards)]
->> Developed a comprehensive **4-dashboard analytical reporting suite**, structured for multi-level business analysis:
+Developed a comprehensive **4-dashboard analytical reporting suite**, structured for multi-level business analysis:
+
 **Technology:** Power BI
 - **Executive Dashboard**
 - **Sales Performance Dashboard**
