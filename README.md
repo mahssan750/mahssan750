@@ -87,7 +87,7 @@ Build a robust foundation in Data Analytics and progressively transition into ad
 
 ## 🚀 Projects & Practical Experience  
 
-### 📦 End-to-End Analytical Data Pipeline – Retail Data *(In Progress)*  
+### 📦 End-to-End Analytical Data Pipeline – Retail Data 
 🔗 [[Project Link](https://github.com/mahssan750/Online_retail)]
 
 **Architecture:** Medallion (Bronze → Silver → Gold)  
@@ -99,7 +99,7 @@ Build a robust foundation in Data Analytics and progressively transition into ad
 - Optimized analytical queries for BI consumption  
 - Developing interactive dashboards in Power BI
  
-### 📊 Visualization & Business Intelligence Project
+### 📊 Visualization & Business Intelligence Project using Power BI
 
 🔗 [[Project Link](https://github.com/mahssan750/online_retail_dashboards)]
 
