@@ -23,7 +23,7 @@
 
 Biology graduate transitioning strategically into **Data Analysis and Business Intelligence**, leveraging a strong research, statistical, and analytical foundation.
 
-After completing my academic research journey, I redirected my analytical capabilities toward **Programming, Computer Science, and Data Analytics**. Since November, I have been consistently expanding my expertise through structured learning and hands-on projects.
+After completing my academic research journey, I redirected my analytical capabilities toward **Programming, Computer Science, and Data Analytics**. I have been consistently expanding my expertise through structured learning and hands-on projects.
 
 Currently working at **Dr. Nutrition** (3+ years in retail & supplements), I combine business exposure with technical skills to support data-driven decision-making. My objective is to bridge operational knowledge with analytical insight.
 
