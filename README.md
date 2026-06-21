@@ -2,7 +2,7 @@
 <!--                    ANIMATED HEADER BANNER                     -->
 <!-- ============================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:16A394,100:F0B429&height=200&section=header&text=Mohamed%20Hassan%20Aboulabed&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%26%20Machine%20Learning%20Practitioner&descSize=18&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:16A394,100:F0B429&height=200&section=header&text=Mohamed%20Hassan%20Aboulabed&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20and%20Machine%20Learning%20Practitioner&descSize=18&descAlignY=60"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
