@@ -1,7 +1,7 @@
 # Mohamed Hassan Aboulabed
 
 **Data Analyst | Business Intelligence Specialist**  
-Sharjah, UAE · Open to BI and Data Analyst opportunities
+Dubai, UAE · Open to BI and Data Analyst opportunities
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-aboulabed-62579230b/) · [Portfolio](https://mahssan750.github.io/)
 
@@ -14,7 +14,7 @@ My portfolio covers the analytics workflow, from cleaning and organizing retail 
 ## Experience
 
 **Data Analyst — DrNutrition**  
-May 2025–Present
+Dec 2024–Present
 
 ## Core skills
 
