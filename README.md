@@ -14,7 +14,7 @@ My portfolio covers the analytics workflow, from cleaning and organizing retail 
 ## Experience
 
 **Data Analyst — DrNutrition**  
-Dec 2024–Present
+  2026–Present
 
 ## Core skills
 
